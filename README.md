@@ -1,6 +1,6 @@
-## Text-XML conversion ##
+# Text-XML conversion #
 
-# Convert Text to Deep/Structured XML and Deep XML to Text
+## Convert Text to Deep/Structured XML and Deep XML to Text
 Easy to use as Adapter Module, Java Mapping or Directly in Message Mapping for SAP PO and use in Groovy message process in SAP CPI.
 
 This is a Jar package that is useful to transform a simple/complex plain or csv text into simple/deep XML and vice-versa. It can transform a text file content to up to n-level deep XML with different recordset structures. Also, when it’s come to transform from very deep XML to text, it can do this with different field separators for each record set as well we can ignore record set that we don’t 
